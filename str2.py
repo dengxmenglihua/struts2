@@ -787,10 +787,3 @@ else:
     else:
         print('输入格式错误')
         sys.exit()
-
-
-    #print(url)
-str2
-- 修复部分漏洞利用bug
-- 修复了兼容性问题
-- 添加了批量扫描功能

@@ -5,4 +5,4 @@
 + 批量URL EXP:   struts2.exe -t xxx.txt    (xxx.txt存放被测的url)          
 + 批量URL EXP:   存在漏洞的url会存放在新生成的：漏洞url.txt 中             
 
-+ Struts2   远程代码执行漏洞   
++ Struts2远程代码执行

@@ -1,7 +1,7 @@
 # struts2
 一个用来批量扫描编号最全的struts2漏洞利用工具
 
-+ 单个URL EXP:   struts2.exe -u http://1.1.1.1:8081/  (不要加xxx.action)   
++ 单个URL EXP:   struts2.exe -u http://1.1.1.1:8081/ 
 + 批量URL EXP:   struts2.exe -t xxx.txt    (xxx.txt存放被测的url)          
 + 批量URL EXP:   存在漏洞的url会存放在新生成的：漏洞url.txt 中             
 

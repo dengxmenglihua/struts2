@@ -12,7 +12,7 @@ http.client.HTTPConnection._http_vsn_str = 'HTTP/1.0'
 
 def poc(url,x):
     try:
-        res=requests.get(url,timwout=5)
+        res=requests.get(url,timeout=5)
     except Exception as e:
         print(e)
         return
